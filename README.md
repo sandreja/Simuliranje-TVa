@@ -1,5 +1,3 @@
-Simuliranje TVa / Simulating a TV
-
 EN
 
 A Java exercise that simulates basic TV functionality to practice conditional logic. The program creates a TV object and runs it through various states - turning on/off, adjusting volume, muting - to explore how different if conditions behave in real-world scenarios.
